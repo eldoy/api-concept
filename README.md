@@ -25,7 +25,7 @@ $result:
 
 The tests for this will be automatically generated.
 
-If you want to transitions some actions to code, the tests will still work.
+If you want to transition some actions to code, the tests will still work.
 
 Discuss: Do you really need tests if the code is this simple?
 
